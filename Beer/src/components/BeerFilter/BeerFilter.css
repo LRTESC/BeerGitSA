@@ -1,0 +1,9 @@
+.beer-filter {
+    margin-bottom: 1rem;
+  }
+  
+  .beer-filter label {
+    display: inline-flex;
+    align-items: center;
+  }
+  
